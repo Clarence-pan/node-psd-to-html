@@ -1,13 +1,35 @@
 {
   "name": "psd-to-html",
   "version": "0.1.0",
-  "author": "Clarence-pan",
+  "author": {
+    "name": "Clarence-pan",
+    "email": "clarence.pchy@gmail.com",
+    "url": "https://clarencep.com"
+  },
   "description": "A convertor which converts .psd file to .html file.",
+  "tags": [
+    "convert",
+    "psd",
+    "html"
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:Clarence-pan/node-psd-to-html.git"
   },
+  "files": [
+    "src",
+    "bin"
+  ],
+  "bin": {
+    "psd-to-html": "./bin/psd-to-html.js"
+  },
   "license": "MIT",
+  "keywords": [
+    "lodash",
+    "lodash-modularized",
+    "stdlib",
+    "util"
+  ],
   "dependencies": {
     "cb2p": "^1.1.0",
     "co": "^4.6.0",

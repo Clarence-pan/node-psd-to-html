@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const path = require('path')
 const psd2html = require('../src/psd-to-html')
 
