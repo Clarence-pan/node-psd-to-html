@@ -1,6 +1,6 @@
 {
   "name": "psd-to-html",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Clarence-pan",
   "description": "A convertor which converts .psd file to .html file.",
   "repository": {
