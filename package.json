@@ -1,0 +1,19 @@
+{
+  "name": "psd-to-html",
+  "version": "0.0.1",
+  "author": "Clarence-pan",
+  "description": "A convertor which converts .psd file to .html file.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Clarence-pan/node-psd-to-html.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cb2p": "^1.1.0",
+    "co": "^4.6.0",
+    "debug": "^2.3.3",
+    "node-getopt": "^0.2.3",
+    "psd": "^3.1.0",
+    "util": "^0.10.3"
+  }
+}
