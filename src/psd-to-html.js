@@ -48,7 +48,8 @@ module.exports = function (inputFile, outputFile, options) {
         var fullHtml = fullfillHtml(domHtml)
         debug("Full html:\n" + fullHtml)
 
-        writeFile(outputFile, fullHtml, 'utf-8')
+        yield writeFile(outputFile, fullHtml, 'utf-8')
+
         return fullHtml
 
         /**

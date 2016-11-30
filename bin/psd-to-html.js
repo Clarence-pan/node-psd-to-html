@@ -50,7 +50,6 @@ try {
         )
         .then(() => {
             console.log(`Convertion completed.`)
-            quit(0)
         })
         .catch(e => {
             console.log(`Convertion failed: `, e)
