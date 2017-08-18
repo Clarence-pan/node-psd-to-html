@@ -17,8 +17,8 @@ Run
 Please see the help:
 
 ```sh
-$ node path/to/psd-to-html/bin/psd-to-html --help
- Usage: node psd-to-html.js <input-psd-file>
+$ sd-to-html --help
+ Usage: psd-to-html <input-psd-file>
 
    <input-psd-file>         Input .psd file
    -o, --output=OUTPUT      Output .html file
