@@ -17,7 +17,7 @@ Run
 Please see the help:
 
 ```sh
-$ sd-to-html --help
+$ psd-to-html --help
  Usage: psd-to-html <input-psd-file>
 
    <input-psd-file>         Input .psd file
